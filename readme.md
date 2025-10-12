@@ -23,7 +23,8 @@ The pipeline integrates **XGBoost** within a **Scikit-learn pipeline**, ensuring
 
 
 
-#ML Demo
+## ML Demo
+
 **LightBGM**
 <img width="1890" height="894" alt="LightBGM" src="https://github.com/user-attachments/assets/ecb532c8-7a8b-4c86-978e-19705787da11" />
 
@@ -61,6 +62,7 @@ The pipeline integrates **XGBoost** within a **Scikit-learn pipeline**, ensuring
 
 
 <img width="1610" height="787" alt="Screenshot 2025-10-12 112027" src="https://github.com/user-attachments/assets/1c439a10-f475-4b5a-af9c-5e753598ea12" />
+
 
 
 
