@@ -7,7 +7,7 @@
 ## 📘 Overview
 
 This project implements a **Machine Learning–powered forecasting system** that predicts **daily food demand (units sold)** for multiple restaurant outlets.  
-It is designed to help **large-scale kitchens and welfare canteens (like Amma Unavagams)** make **data-driven decisions** for food preparation, procurement, and distribution.
+It is designed to help **large-scale kitchens and welfare canteensand restaurants ** make **data-driven decisions** for food preparation, procurement, and distribution.
 
 By accurately forecasting demand, the system aims to:
 
@@ -72,6 +72,7 @@ The pipeline integrates **XGBoost** within a **Scikit-learn pipeline**, ensuring
 - ***Sowmya Anand***
 - ***Vishal S***
 - ***Yukesh D***
+
 
 
 
