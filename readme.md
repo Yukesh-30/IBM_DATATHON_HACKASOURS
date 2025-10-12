@@ -69,9 +69,10 @@ The pipeline integrates **XGBoost** within a **Scikit-learn pipeline**, ensuring
 
 - ***Shiva Ganesh V***
 - ***Shreyas K***
-- ***Soumya Anand***
+- ***Sowmya Anand***
 - ***Vishal S***
 - ***Yukesh D***
+
 
 
 
