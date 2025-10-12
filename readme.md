@@ -1,7 +1,6 @@
 # 🍱 Food Demand Forecasting using XGBoost  
 ### *IBM Datathon Hackasours — Predicting Daily Food Demand for Smart Kitchens*
 
-![Project Banner](./frontend-Shiva-Yukesh/images/Screenshot%202025-10-12%20111936.png)
 
 ---
 
@@ -20,5 +19,5 @@ The pipeline integrates **XGBoost** within a **Scikit-learn pipeline**, ensuring
 
 ---
 
-## 🧠 Project Architecture
+
 
